@@ -1,0 +1,12 @@
+1.创建一个新的仓库
+File-->new repository
+然后点击上方地址栏 publish repository
+发布到远端GitHub账户
+
+2.复制或添加代码和文件到仓库
+在本地文件夹里添加就可以，
+修改会实时显示在Windows客户端里。
+
+3.提交修改
+点击左下角的commit to master,
+此时上方地址栏会显示1，点击提交到
