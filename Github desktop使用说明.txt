@@ -19,4 +19,4 @@ File-->new repository
 Open in Desktop 选择存放位置即可。
 
 5.将远端修改同步到本地
-上方地址栏，pull就看见阿里发进来看按揭付款了杰克伦敦
+上方地址栏，Pull origin1 点击即可同步到本地。
