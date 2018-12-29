@@ -1,6 +1,8 @@
 ## 1.创建一个新的仓库
 File-->new repository
+
 然后点击上方地址栏 publish repository
+
 发布到远端GitHub账户
 
 -----
