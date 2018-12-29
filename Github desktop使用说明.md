@@ -1,7 +1,7 @@
 ## 1.创建一个新的仓库
-File-->new repository   
-然后点击上方地址栏 publish repository   
-发布到远端GitHub账户   
+File-->new repository
+然后点击上方地址栏 publish repository
+发布到远端GitHub账户
 
 -----
 ## 2.复制或添加代码和文件到仓库
@@ -18,8 +18,7 @@ File-->new repository
 ## 4.克隆别人的仓库到本地   
 在远端GitHub找到想复制的仓库，   
 点击上面的 Fork即可复制到远端账户。   
-然后点击 Clone or download -->   
-Open in Desktop 选择存放位置即可。  
+然后点击 Clone or download -->Open in Desktop 选择存放位置即可。  
 
 -----
 ## 5.将远端修改同步到本地   
