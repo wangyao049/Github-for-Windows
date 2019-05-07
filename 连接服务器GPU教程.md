@@ -18,7 +18,7 @@
   
 - **如何使用服务器并且在自己的浏览器中打开jupyter notebook**
 
-  在Xshell中输入 jupyter notebook --ip 服务器IP地址,然后复制下面出现的网址到自己的浏览器即可打开。
+  在Xshell中输入 jupyter notebook --ip 服务器IP地址,然后复制下面出现的网址到自己的浏览器即可打开。    
   指定端口：jupyter notebook --no-browser --port 6000 --ip=192.168.1.103
   
 - 使用服务器中需要注意的点
